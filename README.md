@@ -1,10 +1,6 @@
 # Android-Dictionary-App
 A dictionary for computer science students
 
-# Play Store Link
-
-[Download](https://play.google.com/store/apps/details?id=com.darkguyy.anuragsharma.enggionary)
-
 # Features
 
 •  Easy and light weight.
